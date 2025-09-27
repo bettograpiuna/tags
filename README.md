@@ -52,7 +52,7 @@ git clone https://github.com/bettograpiuna/tags.git
 Navegue até a pasta do projeto:
 Bash
 
-    cd [nome-do-repositorio]
+    cd tags
 
     Abra o arquivo index.html no seu navegador de preferência.
 
