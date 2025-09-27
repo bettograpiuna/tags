@@ -47,7 +47,7 @@ Como este é um projeto front-end estático, não há necessidade de instalaçã
     Clone o repositório:
     Bash
 
-git clone https://github.com/[seu-usuario]/[nome-do-repositorio].git
+git clone https://github.com/bettograpiuna/tags.git
 
 Navegue até a pasta do projeto:
 Bash
