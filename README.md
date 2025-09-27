@@ -1,4 +1,4 @@
-[Visualize aqui!!!](https://bettograpiuna.github.io/tags/​​​)
+[Visualize aqui!!!](https://bettograpiuna.github.io/tags/)
 
 Mini Site Institucional - Seu Café!
 
